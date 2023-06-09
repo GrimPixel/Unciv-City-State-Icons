@@ -3,7 +3,6 @@
 * https://commons.wikimedia.org/wiki/File:Bull-155411.svg
 * https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Antwerp_(City).svg
 * https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Bratislava.svg
-* https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Kongo_(small).svg
 * https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Republic_of_Genoa_(early).svg
 * https://commons.wikimedia.org/wiki/File:Coloredcopperplatesillinoismoundbuilders.png
 * https://commons.wikimedia.org/wiki/File:Emblem_of_Hanoi.svg
@@ -23,6 +22,7 @@
 * https://commons.wikimedia.org/wiki/File:Flag_of_Quebec_City.svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_the_Brussels-Capital_Region.svg
+* https://commons.wikimedia.org/wiki/File:Flag_of_the_Kingdom_of_Kongo.svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_the_Lordship_of_Milan_(XIII_century-1395).svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_the_Sultanate_of_Zanzibar_(1963).svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_Valletta,_Malta.svg
