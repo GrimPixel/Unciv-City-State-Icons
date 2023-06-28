@@ -1,12 +1,12 @@
 * https://commons.wikimedia.org/wiki/File:Astronomical_symbol_for_the_moon.svg
 * https://commons.wikimedia.org/wiki/File:Bandeira_da_cidade_do_Rio_de_Janeiro.svg
 * https://commons.wikimedia.org/wiki/File:Bull-155411.svg
+* https://commons.wikimedia.org/wiki/File:Caduceus_-_black.png
 * https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Antwerp_(City).svg
 * https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_Bratislava.svg
 * https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Republic_of_Genoa_(early).svg
 * https://commons.wikimedia.org/wiki/File:Coloredcopperplatesillinoismoundbuilders.png
 * https://commons.wikimedia.org/wiki/File:Emblem_of_Hanoi.svg
-* https://commons.wikimedia.org/wiki/File:Fishery_-_The_Noun_Project.svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_Almaty.svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_Belgrade,_Serbia.svg
 * https://commons.wikimedia.org/wiki/File:Flag_of_Cape_Town,_South_Africa.svg
